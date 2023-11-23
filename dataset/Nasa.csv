@@ -1,4 +1,4 @@
-rely numeric,ta numeric,plx numeric,time numeric,stor numeric,virt numeric,turn numeric,acap numeric,aexp numeric,pcap numeric,vexp numeric,lexp numeric,modp numeric,tool numeric,sced numeric,loc numeric,actual numeric
+recordnumber numeric,rely numeric,ta numeric,plx numeric,time numeric,stor numeric,virt numeric,turn numeric,acap numeric,aexp numeric,pcap numeric,vexp numeric,lexp numeric,modp numeric,tool numeric,sced numeric,loc numeric,actual numeric
 1.15,0.94,1.15,1,1,0.87,0.87,1,1,1,1,0.95,0.91,1,1.08,25.9,117.6
 1.15,0.94,1.15,1,1,0.87,0.87,1,1,1,1,0.95,0.91,1,1.08,24.6,117.6
 1.15,0.94,1.15,1,1,0.87,0.87,1,1,1,1,0.95,0.91,1,1.08,7.7,31.2
