@@ -2,3 +2,4 @@ dataset,ABE,Adaboost,ANN,Bagging,CART,Deep,ElasticNET,LARS,LASSO,OLS,Ridge,SVR,R
 Albrecht,11,0,50,0,1,74,0,2,0,0,0,60,0,0
 Cocomo81,0,1,1,1,0,48,1,0,3,3,1,0,1,0
 Desharnais,0,0,0,0,0,78,0,0,0,0,0,0,0,0
+Finnish,0,0,144,0,0,144,0,0,0,0,0,0,0,0
