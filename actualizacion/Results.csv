@@ -1,1 +1,1 @@
-dataset,ABE,Adaboost,ANN,Bagging,CART,DeepElasticNET,LARS,LASSO,OLS,Ridge,SVR,RF,GBM
+dataset,ABE,Adaboost,ANN,Bagging,CART,Deep,ElasticNET,LARS,LASSO,OLS,Ridge,SVR,RF,GBM
